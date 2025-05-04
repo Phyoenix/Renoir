@@ -1,2 +1,2 @@
 # Renoir
-A tiny Vulkan renderer.
+A tiny crossplatform renderer.
